@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.modal-text {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  color: rgb(140, 179, 81);
+}
+
+.saved-list{
+  max-height: 200px;
+  max-width: 300px;
+  margin: 80px;
+}
